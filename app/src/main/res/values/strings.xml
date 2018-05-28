@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleJsonRequestDB</string>
+    <string name="title_activity_a">AActivity</string>
+    <string name="title_activity_b">BActivity</string>
+    <string name="title_activity_c">CActivity</string>
+    <string name="title_activity_d">DActivity</string>
+</resources>
